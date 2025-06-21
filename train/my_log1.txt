@@ -1,0 +1,2 @@
+[2025-06-18 15:03:37,808] ori_model acc: 0.77734375, quantized_model acc: 0.76953125
+[2025-06-18 15:17:52,622] ori_model acc: 0.77734375, quantized_model acc: 0.76953125
